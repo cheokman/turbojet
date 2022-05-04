@@ -1,0 +1,22 @@
+[
+  "./bundle.js",
+  "./index.html",
+  "./integration.json",
+  "./vendor.bundle.js",
+  "./game_recall/index.html",
+  "./locales/cn.json",
+  "./locales/en.json",
+  "./locales/tw.json",
+  "./assets/common/cashier_action.png",
+  "./assets/common/cashier_action_selected.png",
+  "./assets/common/control_panel.json",
+  "./assets/common/control_panel.png",
+  "./assets/common/denom_item.png",
+  "./assets/common/denom_item_selected.png",
+  "./assets/common/epicone_logo.png",
+  "./assets/common/loading_bar.png",
+  "./assets/common/loading_bar_frame.png",
+  "./assets/common/lx_logo.png",
+  "./assets/common/ok_cancel.png",
+  "./configs/12/debug_panel.json"
+]
